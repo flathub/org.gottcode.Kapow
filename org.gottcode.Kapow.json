@@ -24,8 +24,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/kapow/kapow-1.5.8-src.tar.bz2",
-					"sha256": "82a9c6484c87d8c218aacf3dc1e459e6604f1692bfc58030be2b8e784f103f8e"
+					"url": "https://gottcode.org/kapow/kapow-1.5.9-src.tar.bz2",
+					"sha256": "f18ccc4e42d6ddb763983d0bfdc1da4ff91faa83289796e1b238f5fa5404e51e"
 				}
 			]
 		}
