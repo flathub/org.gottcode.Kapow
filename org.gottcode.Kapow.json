@@ -24,10 +24,6 @@
 					"type": "archive",
 					"url": "https://gottcode.org/kapow/kapow-1.5.9-src.tar.bz2",
 					"sha256": "f18ccc4e42d6ddb763983d0bfdc1da4ff91faa83289796e1b238f5fa5404e51e"
-				},
-				{
-					"type": "patch",
-					"path": "appdata_oars.patch"
 				}
 			]
 		}
