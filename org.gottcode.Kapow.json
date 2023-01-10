@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Kapow",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "6.3",
+	"runtime-version": "6.4",
 	"sdk": "org.kde.Sdk",
 	"command": "kapow",
 	"rename-icon": "kapow",
@@ -22,8 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/kapow/kapow-1.6.0-src.tar.bz2",
-					"sha256": "d97c088d772a0d7af1b1ae2228ab656c2e4cb02684ba1966d0a600563ac73e0c"
+					"url": "https://gottcode.org/kapow/kapow-1.6.1.tar.bz2",
+					"sha256": "02d28c49dc84c53be1d42042f9e5e063369e098819d5cac89ce07fc3a8dd4a9d"
 				}
 			]
 		}
