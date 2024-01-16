@@ -22,8 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/kapow/kapow-1.6.1.tar.bz2",
-					"sha256": "02d28c49dc84c53be1d42042f9e5e063369e098819d5cac89ce07fc3a8dd4a9d"
+					"url": "https://gottcode.org/kapow/kapow-1.6.2.tar.bz2",
+					"sha256": "aaeb1fe4f4fc671a7c3180757f9aa53f8466588ccce106eda84eba8c69adbf02"
 				}
 			]
 		}
