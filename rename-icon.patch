@@ -1,0 +1,16 @@
+diff --git a/icons/kapow.appdata.xml b/icons/kapow.appdata.xml
+index 23da7b7..ef45985 100644
+--- a/icons/kapow.appdata.xml
++++ b/icons/kapow.appdata.xml
+@@ -92,7 +92,7 @@
+     <binary>kapow</binary>
+   </provides>
+   <launchable type="desktop-id">kapow.desktop</launchable>
+-  <icon type="stock">kapow</icon>
++  <icon type="stock">org.gottcode.Kapow</icon>
+ 
+   <categories>
+     <category>Office</category>
+-- 
+2.44.0
+
