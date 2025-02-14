@@ -22,12 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/kapow/kapow-1.6.3.tar.bz2",
-					"sha256": "0060c0af33ed933457d52741cda4e6f23f18507366d9217582b0eaab9a8118bf"
-				},
-				{
-					"type": "patch",
-					"path": "rename-icon.patch"
+					"url": "https://gottcode.org/kapow/kapow-1.6.4.tar.bz2",
+					"sha256": "591e040722c158490dd96ab41107c48b11be17bdec1ee3d2edec980eb903dfd5"
 				}
 			]
 		}
